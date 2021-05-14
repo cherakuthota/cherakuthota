@@ -1,15 +1,6 @@
 # Day 03 - Python
 
 ## 12th May 2021
-
-|start |end  |task                      |
-|------|-----|--------------------------|
-|9:00  |10:00| Daily Review             |
-|10:00 |12:00|Python pair learning      |
-|12:00 |13:00|Lunch Break               |
-|13:00 |16:00|Python Pair learning      |
-|16:00 |17:00|git collaboration         |   
-<br />
 *Protocol by Ratnakar*
 
 ---
